@@ -208,6 +208,7 @@
     @apply flex-center flex-col  gap-2 rounded-md bg-blue-25/20 px-4 py-2 text-white;
   }
 
+  /* Header Component */
   .header-box {
     @apply flex flex-col gap-1;
   }
